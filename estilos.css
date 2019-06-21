@@ -1,0 +1,38 @@
+body{
+
+	font-family: verdana;
+	background-color: #666666;
+}
+
+
+div#container {
+	background-color: white;
+	width: 90%;
+	padding: 20px;
+	margin: 0 auto;
+	border: black 1px solid;
+	box-shadow: 0px 0px 10px black;	
+}
+
+h1 {
+	font-weight: normal;
+	color: #000066;
+}
+
+h2 {
+	font-weight: normal;
+	color: #0080C0;
+}
+
+p {
+	font-size: 11pt;
+	text-align: justify;
+	text-indent: 50px;
+	line-height: 16pt;
+}
+
+address {
+	font-size: 10pt;
+	text-align: center;
+	font-style: normal;
+}
